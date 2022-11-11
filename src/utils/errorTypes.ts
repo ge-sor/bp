@@ -1,0 +1,11 @@
+export const authErrorText = 'Ошибка авторизации';
+export const wrongEmailOrPassowordText = 'Неправильная почта или пароль';
+export const badRequestText = 'Переданы некорректные данные';
+export const conflictEmailText = 'Email уже используется';
+export const forbiddenDeleteText = 'Недостаточно прав для удаления';
+export const notFoundUserText = 'Пользователь не найден';
+export const notFoundNodeText = 'Нода не найдена';
+export const notFoundText = 'Адрес не найден. Проверьте URL';
+export const serverErrorText = 'Ошибка сервера';
+export const wrongURLText = 'Неправильный формат URL';
+export const wrongEmailText = 'Неправильный формат почты';
